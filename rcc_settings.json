@@ -1,0 +1,11 @@
+{
+"settings": {
+    "always_run": true
+},
+"updates": {
+    "updates_availables": false,
+    "new_version": 1.7,
+    "package_sha256sum": "42f34f93l20d9fk4",
+    "update_url": "http://url:port"
+}
+}
