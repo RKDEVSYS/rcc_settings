@@ -3,7 +3,7 @@
     "always_run": true
 },
 "updates": {
-    "updates_availables": false,
+    "updates_availables": true,
     "new_version": 1.8,
     "package_sha256sum": "3F79BB7B435B05321651DAEFD374CDC681DC06FAA65E374E38337B88CA046DEA",
     "update_url": "http://url:port"
