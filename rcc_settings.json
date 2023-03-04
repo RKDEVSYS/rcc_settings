@@ -6,6 +6,7 @@
     "updates_availables": true,
     "new_version": 1.9,
     "package_hash": "3F79BB7B435B05321651DAEFD374CDC681DC06FAA65E374E38337B88CA046DEA",
+    "package_sha256sum": "3F79BB7B435B05321651DAEFD374CDC681DC06FAA65E374E38337B88CA046DEA",
     "update_url": "https://irrcc.000webhostapp.com/products/rcc/updates/package.zip"
 }
 }
