@@ -1,6 +1,6 @@
 {
 "settings": {
-    "always_run": false
+    "always_run": true
 },
 "updates": {
     "updates_availables": true,
