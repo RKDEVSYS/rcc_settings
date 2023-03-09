@@ -1,11 +1,11 @@
 {
 "settings": {
-    "always_run": true,
+    "always_run": false,
     "allow_run": true
 },
 "updates": {
     "updates_availables": true,
-    "new_version": 2.5,
+    "new_version": 2.4,
     "package_hash": "b25ec92ea2cf3ebb2700892d7d897eb48d0326e29c5d931753e86bb682c7a12c",
     "package_sha256sum": "b25ec92ea2cf3ebb2700892d7d897eb48d0326e29c5d931753e86bb682c7a12c",
     "update_url": "https://irrcc.000webhostapp.com/products/rcc/updates/package.zip"
