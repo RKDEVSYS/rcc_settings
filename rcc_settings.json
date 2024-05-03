@@ -5,7 +5,7 @@
 },
 "updates": {
     "updates_availables": true,
-    "new_version": 2.6,
+    "new_version": 2.7,
     "package_hash": "35c5700ae452df9e5017b5575c2dd0ad33b11c1f61ef5d64583f1c3329b83cf5",
     "package_sha256sum": "b25ec92ea2cf3ebb2700892d7d897eb48d0326e29c5d931753e86bb682c7a12c",
     "update_url": "https://irrcc.000webhostapp.com/products/rcc/updates/package.zip"
